@@ -23,6 +23,8 @@
   <a href="https://ramterstudio.com/menupip/">Website</a>
 </p>
 
+> This is the official release, documentation, and issue-tracking repository for MenuPiP. The application is proprietary; its source code is not published here.
+
 ## Install
 
 ### Homebrew
@@ -121,6 +123,10 @@ One-time purchase. Yours forever. No subscription.
 ## Privacy
 
 MenuPiP does not collect, store, or transmit any personal data. All settings are stored locally on your device. No analytics, no tracking, no telemetry.
+
+## License
+
+MenuPiP and the materials in this repository are proprietary. See [LICENSE](LICENSE) for details.
 
 ## Feedback
 
